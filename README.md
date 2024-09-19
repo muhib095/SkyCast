@@ -50,6 +50,6 @@ If an error occurs, an appropriate message will be shown in a dialog box.
 
 ## Links
 
-Contact @ ullah.muhib095@gmail.com
+Contact @ ullah.muhib095@gmail.com / muhib.ullah@torontomu.ca
 
-Linkedin @ https://www.linkedin.com/in/muhib095/
+Linkedin @ https://www.linkedin.com/in/muhib-ullah095/
